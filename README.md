@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I like to apply deep neural nets on physical models 🧠🤖.
+I like to apply neural nets on physical models 🧠🤖.
